@@ -1,0 +1,12 @@
+/*
+
+!/.gitignore
+!/build.gradle
+!/settings.gradle
+!/README.md
+
+!/src/
+!/src/**/*
+
+.DS_Store
+Thumbs.db
